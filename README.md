@@ -7,7 +7,7 @@
 
 `Período: 3°`
 
-Está sendo desenvolvido um sistema de gerenciamento de Urnas eletrônicas levando em consideração as regras de funcionamento das eleições brasileiras para o poder executivo e para o poder legislativo.
+Desenvolvimento de um sistema de gerenciamento de urnas eletrônicas, considerando as regras e diretrizes do processo eleitoral brasileiro, tanto para o poder executivo quanto para o poder legislativo.
 
 ## Integrantes
 
