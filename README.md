@@ -7,7 +7,24 @@
 
 `Período: 3°`
 
+## Objetivo:
 Desenvolvimento de um sistema de gerenciamento de urnas eletrônicas, considerando as regras e diretrizes do processo eleitoral brasileiro, tanto para o poder executivo quanto para o poder legislativo.
+
+
+* Funcionalidades do Sistema: 
+Cadastro de Eleições, Partidos e Candidatos
+Permitir a criação e o gerenciamento de eleições.
+Registrar partidos políticos e candidatos, associando-os às eleições correspondentes.
+
+* Entrada e Armazenamento de Votos
+Possibilitar a entrada de votos em lote através de arquivos.
+Gravar resultados usando arquivos-texto.
+
+* Relatórios de Resultados
+Exibir um relatório completo da eleição com:
+Total de votos válidos, nulos e brancos.
+Resultados das eleições executivas e legislativas.
+
 
 ## Integrantes
 
