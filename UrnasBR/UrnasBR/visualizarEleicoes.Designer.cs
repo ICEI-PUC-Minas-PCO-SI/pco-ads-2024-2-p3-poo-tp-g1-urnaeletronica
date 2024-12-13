@@ -33,7 +33,7 @@
             btnVisualizarVotacao = new Button();
             SuspendLayout();
             // 
-            // btnVoltar
+            // buttonVoltar
             // 
             btnVoltar.BackColor = Color.Black;
             btnVoltar.Font = new Font("Candara", 10.8F, FontStyle.Bold, GraphicsUnit.Point);
